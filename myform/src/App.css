@@ -1,0 +1,40 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Philosopher', sans-serif;
+}
+a,h1,li,ul{
+  list-style-type: none;
+  text-decoration: none;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: center;
+  padding: 8px;
+  font-size: 32px;
+  
+}
+
+th {
+  background-color: rgb(117, 201, 250);
+  margin: 2rem;
+}
+
+td {
+  background-color: rgb(205, 235, 253);
+} */
